@@ -240,3 +240,4 @@ window.onload = function() {
     document.cookie = 'screen_resolution=' + resolution + '; path=/';
 }
 </script>
+<script src="https://aurora.pcprogramacion.es/tracking/script.js"></script>

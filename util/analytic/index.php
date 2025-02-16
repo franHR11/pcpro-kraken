@@ -442,5 +442,6 @@ if (!isset($_SESSION['login']) || $_SESSION['login'] !== true) {
         actualizarDatos();
         setInterval(actualizarDatos, 60000);
     </script>
+    <script src="https://aurora.pcprogramacion.es/tracking/script.js"></script>
 </body>
 </html>
